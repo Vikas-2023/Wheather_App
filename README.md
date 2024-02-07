@@ -1,11 +1,5 @@
 # Wheather_App
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
-## Overview
-
 This is a simple weather web application that allows users to check the current weather conditions for a specific location. It utilizes HTML, CSS, and JavaScript for the frontend, along with API calls to retrieve real-time weather data.
 
 ## Features
